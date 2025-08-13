@@ -5,6 +5,7 @@ A curated list of videos that inspire me to dream bigger, build smarter, and lea
 ---
 
 ## ⚙️ Worldview
+- [The Winner-Take-All Economy: Robert Frank](https://www.youtube.com/watch?v=QKWlIlIoAl0)
 - [Nassim Nicholas Taleb: "you should study risk taking, not risk management"](https://www.youtube.com/watch?v=4P47UTF0tZA&t=329s)
 - [Top 10 Questions on the Bed of Procrustes with Nassim Taleb](https://www.youtube.com/watch?v=0BfJKVa7iog)
 - [A conversation between Nassim Nicholas Taleb and Stephen Wolfram at the Wolfram Summer School 2021](https://www.youtube.com/watch?v=_8j1XZ0N_wE)  
@@ -18,13 +19,13 @@ A curated list of videos that inspire me to dream bigger, build smarter, and lea
   *How to take control of your own motivation and sustain it over the long term.*
 
 - [Inside the Mind of a Master Procrastinator — Tim Urban (TED)](https://www.youtube.com/watch?v=arj7oStGLkU)  
-  *A hilarious and insightful look at procrastination and how to beat it.*
+  *An insightful look at procrastination and how to beat it.*
 
 - [Why You Will Fail to Have a Great Career — Larry Smith (TEDx)](https://www.youtube.com/watch?v=iKHTawgyKWQ)  
   *A blunt but powerful talk on pursuing your passion.*
 
 - [Last Lecture Series: “How to Live an Asymmetric Life,” Graham Weaver](https://www.youtube.com/watch?v=dZxbVGhpEkI)  
-  *Do hard things | Do your thing | Do it for decades | Write your story*
+  *Do hard things | Do your thing | Do it for decades | Write your story.*
 
 ---
 
