@@ -26,7 +26,7 @@ A curated list of videos that inspire me to dream bigger, build smarter, and lea
 - [The Lean Startup — Eric Ries](https://www.youtube.com/watch?v=fEvKo90qBns)  
   *How to iterate quickly, test ideas, and build successful products.*
 
-- [How to Make Things People Want — YC Startup School](https://www.youtube.com/watch?v=tLg5YARr0CQ)  
+- [How To Talk To Users | Startup School](https://www.youtube.com/watch?v=z1iF1c8w5Lg)  
   *Lessons from Y Combinator on building for real user needs.*
 
 ---
