@@ -53,4 +53,4 @@ A curated list of videos that inspire me to dream bigger, build smarter, and lea
 
 ---
 
-> ⭐ This list is updated as I discover more gems — contributions welcome!
+> ⭐ This list is updated as I discover more gems - contributions welcome!
