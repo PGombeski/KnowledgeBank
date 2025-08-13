@@ -5,9 +5,11 @@ A curated list of videos that inspire me to dream bigger, build smarter, and lea
 ---
 
 ## ⚙️ Worldview
+- [Nassim Nicholas Taleb: "you should study risk taking, not risk management"](https://www.youtube.com/watch?v=4P47UTF0tZA&t=329s)
 - [Top 10 Questions on the Bed of Procrustes with Nassim Taleb](https://www.youtube.com/watch?v=0BfJKVa7iog)
 - [A conversation between Nassim Nicholas Taleb and Stephen Wolfram at the Wolfram Summer School 2021](https://www.youtube.com/watch?v=_8j1XZ0N_wE)  
 - [How AI pioneer Doug Hofstadter wrote Gödel, Escher, Bach](https://www.youtube.com/watch?v=JYZcHSqqxtg)
+- ["What Is a Strange Loop and What is it Like To Be One?" by Douglas Hofstadter (2013)](https://www.youtube.com/watch?v=UT5CxsyKwxg&t=328s)
 
 ---
 
