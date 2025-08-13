@@ -4,6 +4,12 @@ A curated list of videos that inspire me to dream bigger, build smarter, and lea
 
 ---
 
+## ⚙️ Worldview
+- [A conversation between Nassim Nicholas Taleb and Stephen Wolfram at the Wolfram Summer School 2021](https://www.youtube.com/watch?v=_8j1XZ0N_wE)  
+ 
+
+---
+
 ## 🌱 Life Goals & Motivation
 - [The Psychology of Self-Motivation — Scott Geller (TEDx)](https://www.youtube.com/watch?v=7sxpKhIbr0E)  
   *How to take control of your own motivation and sustain it over the long term.*
