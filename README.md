@@ -38,8 +38,8 @@ A curated list of videos that inspire me to dream bigger, build smarter, and lea
 - [The Art of Data Storytelling — Cole Nussbaumer Knaflic](https://www.youtube.com/watch?v=n9r0K5gOc0U)  
   *How to communicate insights clearly and persuasively.*
 
-- [Deep Learning with Python and PyTorch — Yann LeCun](https://www.youtube.com/watch?v=0bMe_vCZo30)  
-  *An accessible introduction to modern AI concepts.*
+## 🏛️ History
+- TBD
 
 ---
 
