@@ -14,8 +14,8 @@ A curated list of videos that inspire me to dream bigger, build smarter, and lea
 - [Why You Will Fail to Have a Great Career — Larry Smith (TEDx)](https://www.youtube.com/watch?v=iKHTawgyKWQ)  
   *A blunt but powerful talk on pursuing your passion.*
 
-- [Last Lecture Series: “How to Live an Asymmetric Life,” Graham Weaver](https://www.youtube.com/watch?v=dZxbVGhpEkI) 
-_  *1. Do hard things | 2. Do your thing | 3. Do it for decades | 4. Write your story*
+- [Last Lecture Series: “How to Live an Asymmetric Life,” Graham Weaver](https://www.youtube.com/watch?v=dZxbVGhpEkI)
+  *1. Do hard things | 2. Do your thing | 3. Do it for decades | 4. Write your story*
 
 ---
 
